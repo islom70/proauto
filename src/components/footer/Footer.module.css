@@ -1,0 +1,98 @@
+.footer {
+    width: 100%;
+    background: url('../../assets2/backcar.svg'), lightgray 50% / cover no-repeat;
+    background-color: #1d1d1d;
+    opacity: 1;
+    padding: 60px 0px 70px 0px;
+}
+
+.box_row {
+    display: flex;
+    justify-content: space-between;
+}
+.box_logo {
+
+}
+.logo {
+    margin-bottom: 50px;
+}
+.logo_text{
+    color: #ffffff7d;
+    font-family: Geometria;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.box_lists {
+    display: flex;
+}
+.texts {
+    list-style-type: none;
+    margin-right: 30px;
+}
+.title_list{
+    width: 128px;
+    color: #FFF;
+    font-family: Geometria;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.list {
+    width: 106px;
+    color: #ffffff7d;
+    font-family: Geometria;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+.navlink {
+    color: #ffffff7d;
+    font-family: Geometria;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    transition: .5s ease;
+}
+.navlink:hover{
+    color: rgb(0, 255, 38);
+    font-size: 18px;
+}
+.box_contact {
+}
+.call {
+    display: flex;
+    margin-bottom: 15px;
+}
+.call_img {
+    margin-right: 10px;
+}
+.call_text {
+    color: #FFF;
+    font-family: Geometria;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.email {
+    display: flex;
+}
+.email_img {
+    margin-right: 10px;
+}
+.email_text {
+    color: #FFF;
+    font-family: Geometria;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
